@@ -1,6 +1,6 @@
 ## Importent Link
 
-RDS create
+RDS Create
 
 https://aws.amazon.com/getting-started/tutorials/create-mysql-db/
 
