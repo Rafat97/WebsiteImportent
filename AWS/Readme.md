@@ -1,7 +1,6 @@
 ## Importent Link
 
-MySQL Database
-https://aws.amazon.com/getting-started/tutorials/create-mysql-db/
+MySQL Database Create https://aws.amazon.com/getting-started/tutorials/create-mysql-db/
 
 
 ## cmd
